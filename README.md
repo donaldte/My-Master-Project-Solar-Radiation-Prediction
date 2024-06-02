@@ -29,3 +29,17 @@
 9. **Short-wave Irradiation (Wh/m2):** Surface incoming shortwave irradiation (broadband)
 
 - **MERRA-2 Meteorological Data**
+
+## Bafoussam Matrix correlation 
+
+![alt text](correlation_matrix_heatmap_bafoussam.png)
+
+## Bafoussam Predicted vs mesured irradiation 
+![alt text](<predicted_vs_measured_irradiation Bafoussam.png>)
+
+
+## Maroua Matrix correlation 
+![alt text](correlation_matrix_heatmap_maroua.png)
+
+## Maroua Predicted vs mesured irradiation 
+![alt text](<predicted_vs_measured_irradiation maroua.png>)
