@@ -43,3 +43,9 @@
 
 ## Maroua Predicted vs mesured irradiation 
 ![alt text](<predicted_vs_measured_irradiation maroua.png>)
+
+## Buea Matrix correlation 
+![alt text](correlation_matrix_heatmap_buea.png)
+
+## Buea Predicted vs mesured irradiation 
+![alt text](<predicted_vs_measured_irradiation buea.png>)
